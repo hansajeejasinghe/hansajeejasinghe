@@ -1,5 +1,5 @@
-[![MasterHead](https://wallpaperaccess.com/full/5927911.gif)](https://github.com/hansajeejasinghe)
-<h1 align="center">Hi 👋, I'm Hansajee Jasinghe</h1>
+[![MasterHead]](https://github.com/hansajeejasinghe)
+<h1 align="center">Hi there 👋, I'm Hansajee Jasinghe</h1>
 <h3 align="center">Frontend developer from Sri Lanka.</h3>
 <img align = "right" alt = "coding" width = "400" src = "https://giffiles.alphacoders.com/215/215911.gif">
 
